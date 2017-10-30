@@ -1,4 +1,7 @@
 # apigateway4
+
+**NOTE: This is a fork created for development purposes, please use the original package in [https://github.com/pahud/apigateway4]() instead.**
+
 AWS API Gateway request signing library
 
 
